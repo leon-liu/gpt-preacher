@@ -3,6 +3,10 @@ import { PageProps } from '@/types/page';
 import { DataList } from '@/types/app';
 import { AppCardInfo } from '@/types/appCard';
 
+export async function generateMetadata({ params: { slug } }: PageProps) {
+  return { title: `collection:${slug}` };
+}
+
 const CollectionPage = async ({ params: { slug } }: PageProps) => {
   const { data: { listingsPreview } } = await import(`@/data/${process.env.NEXT_PUBLIC_GPT_VERSION}/apps.json`);
 

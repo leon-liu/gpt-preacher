@@ -3,6 +3,10 @@ import AppCard from '@/components/content/AppCard';
 import { PageProps } from '@/types/page';
 import { AppCardInfo } from '@/types/appCard';
 
+export async function generateMetadata({ params: { slug } }: PageProps) {
+  return { title: `product:${slug}` };
+}
+
 async function getData(slug: string) {
   const { data: { listingsPreview } } = await import(`@/data/product/${slug}.json`);
   return {

@@ -8,6 +8,10 @@ import styles from './page.module.css';
 
 const inter = Inter({ subsets: ['latin'] })
 
+export const metadata = {
+  title: 'main',
+};
+
 async function getData() {
   const { data: { listingsPreview } } = await import(`@/data/${process.env.NEXT_PUBLIC_GPT_VERSION}/apps.json`);
   return {

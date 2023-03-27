@@ -4,6 +4,10 @@ import { PageProps } from '@/types/page';
 import { AppCardInfo } from '@/types/appCard';
 import { Data, DataList } from '@/types/app';
 
+
+export async function generateMetadata({ params: { slug } }: PageProps) {
+  return { title: `category:${slug}` };
+}
 // async function getData() {
 //   const { data: { listingsPreview } } = await import('@/data/apps.json');
 //   return {
