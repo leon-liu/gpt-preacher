@@ -1,0 +1,225 @@
+{
+    "data": {
+        "listingsPreview": [
+            {
+                "id": "ckwo807248e2q0d82x3ewks6n",
+                "logo": {
+                    "id": "ckwo83isa8e8z0d82bf1oq9ut",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1638405103/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/example_ntredv.png",
+                    "__typename": "File"
+                },
+                "name": "ClipClap",
+                "slug": "clipclap",
+                "links": [
+                    {
+                        "id": "ckwo8076j8e2r0d8210zen5tt",
+                        "url": "https://arxiv.org/abs/2111.09734",
+                        "name": "Research paper",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckwo81ncz8e900d62myfhw4mg",
+                        "url": "https://github.com/rmokady/CLIP_prefix_caption",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckwo865ybrqyn0b623pa1nv04",
+                        "url": "https://colab.research.google.com/drive/1tuoAC5F4sC7qid56Z0ap-stR3rwdk0ZV?usp=sharing",
+                        "name": "Open in Google Colab",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Image Captioning with Clip Encoder and GPT2",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckm8ee78reg0g0b598q0igv9z",
+                        "name": "Image captioning",
+                        "slug": "image-captioning",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "cklgu00j9i3ic0b869tzb6hrq",
+                "logo": {
+                    "id": "cklgu00nqi3id0b86fzfqen63",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1614013557/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/j7w6c9i1spdrzmqqohba.png",
+                    "__typename": "File"
+                },
+                "name": "CLIP Playground",
+                "slug": "clip-playground",
+                "links": [
+                    {
+                        "id": "cklgu00pzi3ij0b86r5g50zaj",
+                        "url": "https://www.clipplayground.co/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "OpenAI's CLIP model in your browser, like GPT-3 for images",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "ckxyai762mahn0d62sd24dttp",
+                "logo": {
+                    "id": "ckxyai7almahp0d62v2cbb160",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1641190591/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/imagioo_nyut4h.png",
+                    "__typename": "File"
+                },
+                "name": "Imagioo",
+                "slug": "imagioo",
+                "links": [
+                    {
+                        "id": "ckxyai7cymahs0d62io8u6zuq",
+                        "url": "https://imagioo.com/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "An Image Search Engine Using OpenAI Clip and Images from Wikimedia",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "ckxjm9zqyw2ds0d82z1ia8fck",
+                "logo": {
+                    "id": "ckxjm9zvfw2dt0d82kuxqm83b",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1640303371/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/93078193_t2bg4x.jpg",
+                    "__typename": "File"
+                },
+                "name": "Pixray",
+                "slug": "pixray",
+                "links": [
+                    {
+                        "id": "ckxjm9zxlw2dv0d8237c58dzk",
+                        "url": "https://github.com/pixray/pixray",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckxjmbbmp6maj0b62l5dnpk53",
+                        "url": "https://pixray.gob.io/text2image/",
+                        "name": "Live demo",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "An image generation system using OpenAI CLIP",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkq73vtj9j4o0b733ocvvkdz",
+                        "name": "Image Generation",
+                        "slug": "image-generation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,405 @@
+{
+    "data": {
+        "listingsPreview": [
+            {
+                "id": "clcfwzppi150417670yrgm00dbka",
+                "logo": {
+                    "id": "clcfwzppi150418270yr8jnpnmqj",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1564834281/catalog/adobe-photoshop/icon128x128.png",
+                    "__typename": "File"
+                },
+                "name": "Stable Diffusion Photoshop Plugin",
+                "slug": "adobe-photoshop-stable-diffusion-plugin",
+                "links": [
+                    {
+                        "id": "clcfwzppi150417770yrid6w9emi",
+                        "url": "https://www.adobe.com/products/photoshopfamily.html",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Stable Diffusion Arrives In Photoshop",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "cklhp4et2lim50b86krzlwt7z",
+                        "name": "Design",
+                        "slug": "design",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbs1fth0398644ev5byijshpzx",
+                "logo": {
+                    "id": "clbs1fth1398646ev5bso1rtfvn",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1671287521/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/D-YBdoiE_400x400_zxgdre.jpg",
+                    "__typename": "File"
+                },
+                "name": "AI Render",
+                "slug": "ai-render",
+                "links": [
+                    {
+                        "id": "clbs1fth1398645ev5b5o6tdzab",
+                        "url": "https://airender.gumroad.com/l/ai-render",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Stable Diffusion in Blender - Create amazing images using Stable Diffusion AI. ",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkq73vtj9j4o0b733ocvvkdz",
+                        "name": "Image Generation",
+                        "slug": "image-generation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clcaid7a2119622170yr2j7vareb",
+                "logo": {
+                    "id": "clcaim18f120720670yrnrv89ljv",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672404756/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/bee_logo_pmjqnp.png",
+                    "__typename": "File"
+                },
+                "name": "Diffusion Bee ",
+                "slug": "diffusion-bee",
+                "links": [
+                    {
+                        "id": "clcaid7a2119622270yrxgf1ys90",
+                        "url": "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clcaij5r4120399770yr4zjtakmo",
+                        "url": "https://diffusionbee.com/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Stable Diffusion GUI App for MacOS",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkq73vtj9j4o0b733ocvvkdz",
+                        "name": "Image Generation",
+                        "slug": "image-generation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbtf7z12662790ev5ba94eprn2",
+                "logo": {
+                    "id": "clbtf7z12662792ev5b8kux21ua",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1671371136/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/460x0w_usdtu0.webp",
+                    "__typename": "File"
+                },
+                "name": "DRAI",
+                "slug": "drai",
+                "links": [
+                    {
+                        "id": "clbtf7z12662791ev5byek01bt7",
+                        "url": "https://apps.apple.com/us/app/drai-ai-image-generator/id1643729769?platform=iphone",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Unleash the power of AI to generate art ",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbfm9r0w962181560vetgupeug",
+                        "name": "Text-to-Image ",
+                        "slug": "text-to-image",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clctuo2ak10444980z40efvqztw8",
+                "logo": {
+                    "id": "clctuo2ak10445000z405x5e6ajg",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1673573862/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/playground-ai_211905_f43emy.webp",
+                    "__typename": "File"
+                },
+                "name": "PlaygroundAI",
+                "slug": "playgroundai",
+                "links": [
+                    {
+                        "id": "clctuo2ak10444990z408b8j4gv6",
+                        "url": "https://playgroundai.com/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "A free-to-use online AI image creator",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkq73vtj9j4o0b733ocvvkdz",
+                        "name": "Image Generation",
+                        "slug": "image-generation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clcqr2qzp43458370bmo5797ulw",
+                "logo": {
+                    "id": "cldyme0ac16272547227cfbidlbe",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1676039070/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2023-02-10_at_11.26.52_mz6lq2.png",
+                    "__typename": "File"
+                },
+                "name": "Riffusion",
+                "slug": "riffusion",
+                "links": [
+                    {
+                        "id": "clcqr2qzp43458470bmjhzmpewj",
+                        "url": "https://www.riffusion.com/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clcqrdxdg4345117140cs5msxfe",
+                        "url": "https://www.riffusion.com/about",
+                        "name": "About",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clcqrfefp4382687140pr269909",
+                        "url": "https://github.com/riffusion/riffusion",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "sequence": 2,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Stable diffusion for real-time music generation",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clcqr2r1143462070bmz9vt49i7",
+                        "name": "Text-to-Music",
+                        "slug": "text-to-music",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [
+                    {
+                        "id": "cknnlkyb1375m0b343uylwxkv",
+                        "name": "New",
+                        "slug": "new",
+                        "__typename": "Collection",
+                        "translations": []
+                    }
+                ],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "cldjhca531620900jh1wqlyxjkhs",
+                "logo": {
+                    "id": "cldjhca531620902jh1w9bznbj92",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1675123598/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2023-01-31_at_01.04.12_npnncr.png",
+                    "__typename": "File"
+                },
+                "name": "Write Stable Diffusion prompts",
+                "slug": "write-stable-diffusion-prompts",
+                "links": [
+                    {
+                        "id": "cldjhca531620901jh1w5wpgyyq3",
+                        "url": "It is like Grammarly, but for AI Generated Art",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Write better Stable Diffusion prompts using AI-powered writing assistant.",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkq73vtj9j4o0b733ocvvkdz",
+                        "name": "Image Generation",
+                        "slug": "image-generation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            }
+        ]
+    }
+}

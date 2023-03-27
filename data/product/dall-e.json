@@ -1,0 +1,50 @@
+{
+    "data": {
+        "listingsPreview": [
+            {
+                "id": "cl2xwt4lz4376294n209x2fvdyf",
+                "logo": {
+                    "id": "cl2xwt4lz4376314n201zuy3xto",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1652051500/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/wLkWojlh_400x400_bweksb.jpg",
+                    "__typename": "File"
+                },
+                "name": "PizzaDALL-E",
+                "slug": "pizzadall-e",
+                "links": [
+                    {
+                        "id": "cl2xwt4lz4376304n2094i780a7",
+                        "url": "https://twitter.com/PizzaDalle",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "A twitter account that asks DALL-E to generate images of pizza from bizarre prompts",
+                "blendrId": null,
+                "trayIoId": null,
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": null,
+                "categories": [],
+                "collections": [],
+                "combideskId": null,
+                "integromatId": null,
+                "translations": [],
+                "microsoftFlowId": null,
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": null,
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": null,
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            }
+        ]
+    }
+}

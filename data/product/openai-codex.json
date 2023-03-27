@@ -1,0 +1,709 @@
+{
+    "data": {
+        "listingsPreview": [
+            {
+                "id": "ckvfqknnf48xs0a45hncom5fu",
+                "logo": {
+                    "id": "ckvfqknrg48xt0a450h8x1f8c",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1635714073/icons/codestart-xyz.png",
+                    "__typename": "File"
+                },
+                "name": "codeStarter",
+                "slug": "codestart-xyz",
+                "links": [
+                    {
+                        "id": "ckvfqko1n48y30a45jj6c0sl6",
+                        "url": "https://www.codestart.xyz/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Build web apps with OpenAI Codex",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "cklbiynp5tgck0b86bmlea559",
+                        "name": "Code Generation",
+                        "slug": "code-generation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "cksewfdhzqiv60a17qj3vmblr",
+                "logo": {
+                    "id": "cksewfdluqiv70a17ic6f4zyc",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1629134176/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/dqhr94ajickxeqcqdwpl.png",
+                    "__typename": "File"
+                },
+                "name": "CodeVox",
+                "slug": "codevox",
+                "links": [
+                    {
+                        "id": "cksewfdnvqiv90a173ydja9g2",
+                        "url": "https://www.vice.com/en/article/dyveay/learning-to-code-openai-codex-natural-language-processing",
+                        "name": "Original article",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Generating lines of code from natural speech",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckqichfki2fck0a04pvyz6lx6",
+                        "name": "Coding Assistants",
+                        "slug": "coding-assistants",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbor4mii1555522538thwd0xwwi",
+                "logo": {
+                    "id": "clbor4mii1555524538tk1dvy81x",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1671088803/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/PowerShell_Core_6.0_icon_cfu9mo.png",
+                    "__typename": "File"
+                },
+                "name": "Codex CLI",
+                "slug": "codex-cli",
+                "links": [
+                    {
+                        "id": "clbor4mii1555523538txm9v5diz",
+                        "url": "https://github.com/microsoft/Codex-CLI",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                        "name": "Developer Tools",
+                        "slug": "developer-tools",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "ckunewmhifyih0a459xj9bnof",
+                "logo": {
+                    "id": "ckunewmlnfyii0a455hk97ynu",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1634002508/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/tivijeyiqjy55wcqv8gj.png",
+                    "__typename": "File"
+                },
+                "name": "codex-readme",
+                "slug": "codex-readme",
+                "links": [
+                    {
+                        "id": "ckunewmnpfyik0a458sqyuhjk",
+                        "url": "https://github.com/tom-doerr/codex-readme",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "OpenAI Codex Generating READMEs",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "cklbiynp5tgck0b86bmlea559",
+                        "name": "Code Generation",
+                        "slug": "code-generation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "cktz1yzslkn2r0a61lf6pnr87",
+                "logo": {
+                    "id": "cktz1yzwqkn2t0a61tuuy07vj",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1632529595/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/u79v4v59x2mbes589n22.png",
+                    "__typename": "File"
+                },
+                "name": "Creating a Baby Yoda Game",
+                "slug": "creating-a-baby-yoda-game",
+                "links": [
+                    {
+                        "id": "cktz1yzyskn2v0a61daev7b1y",
+                        "url": "https://www.youtube.com/watch?v=bqt29KmiTpU",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Using OpenAI Codex to create a Baby Yoda Game",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkn235x2vi7p0b737pn2brsb",
+                        "name": "Games",
+                        "slug": "games",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "cktz1enzf8xm40a45m7gvjjjo",
+                "logo": {
+                    "id": "cktz1eo3d8xm50a459z3ml9hh",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1632528646/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/fpr0ne2fxggxexl5ej6i.png",
+                    "__typename": "File"
+                },
+                "name": "Creating a Space Game",
+                "slug": "creating-a-space-game",
+                "links": [
+                    {
+                        "id": "cktz1eo5e8xm70a453ral4ifz",
+                        "url": "https://www.youtube.com/watch?v=Zm9B-DvwOgw",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Using OpenAI Codex to create a Space Game",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkn235x2vi7p0b737pn2brsb",
+                        "name": "Games",
+                        "slug": "games",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "cky22t9emuai30d825ezcn2ki",
+                "logo": {
+                    "id": "cky22t9iwuai40d82p67oy3bk",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1641419535/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2022-01-05_at_22.52.00_ggnfr1.png",
+                    "__typename": "File"
+                },
+                "name": "Fix",
+                "slug": "fix",
+                "links": [
+                    {
+                        "id": "cky22t9l1uai70d82qki2b7t3",
+                        "url": "https://github.com/tom-doerr/fix",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "A program that fixes your errors in the command line",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                        "name": "Developer Tools",
+                        "slug": "developer-tools",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "ckv1jlmh55ygg0a457rfo15ga",
+                "logo": {
+                    "id": "ckv1jlmlj5ygh0a45kc5p3q2m",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1634856919/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/q4esqlku6flh7vnxj6le.png",
+                    "__typename": "File"
+                },
+                "name": "Game of Pong",
+                "slug": "game-of-pong",
+                "links": [
+                    {
+                        "id": "ckv1jlmnq5ygl0a4582omen59",
+                        "url": "https://medium.com/@bart.theeten/an-openai-codex-experiment-coding-the-game-of-pong-using-an-ai-co-pilot-461639421882",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Coding the Game of Pong Using an AI Co-Pilot",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkn235x2vi7p0b737pn2brsb",
+                        "name": "Games",
+                        "slug": "games",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "ckqichfgt2fcj0a04c55qqo84",
+                "logo": {
+                    "id": "ckqichfo72fco0a04j1mo64v8",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1624987910/icons/github-copilot.png",
+                    "__typename": "File"
+                },
+                "name": "GitHub Copilot",
+                "slug": "github-copilot",
+                "links": [
+                    {
+                        "id": "ckqichfux2fcu0a04bxo9l99e",
+                        "url": "https://copilot.github.com/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckqichfx92fcw0a04u0bw90fp",
+                        "url": "https://help.github.com/privacy",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckqichfzh2fcy0a04f7hg8lpk",
+                        "url": "https://help.github.com/terms",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckqict2o8inge0b17j45yn5lj",
+                        "url": "https://github.com/features/copilot/signup",
+                        "name": "Waiting list",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "AI-powered pair programming",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckqichfki2fck0a04pvyz6lx6",
+                        "name": "Coding Assistants",
+                        "slug": "coding-assistants",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "ckydj5j7xeili0d1136bg3dl3",
+                "logo": {
+                    "id": "ckydjgc0y7dw50a17qu8aqzhr",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1642112614/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/16343502_itvmhy.png",
+                    "__typename": "File"
+                },
+                "name": "Design an API with GitHub Copilot",
+                "slug": "openapi-definition-with-github-copilot",
+                "links": [
+                    {
+                        "id": "ckydj5jedeill0d11sxxhjjhp",
+                        "url": "https://www.youtube.com/watch?v=8vdttW0GEro",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Using GitHub Copilot (Codex) to design an OpenAPI spec",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckydjbb337dhe0a17cprf9iuz",
+                        "name": "API Design",
+                        "slug": "api-design",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clco0aw9v55467670bm1egwflnn",
+                "logo": {
+                    "id": "clco0aw9v55468270bm2sq3ybpf",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672879312/icons/perplexity-ai.jpg",
+                    "__typename": "File"
+                },
+                "name": "Perplexity AI: Bird SQL",
+                "slug": "perplexity-ai-bird-sql",
+                "links": [
+                    {
+                        "id": "clco0aw9v55467770bmw6gxslu6",
+                        "url": "https://www.perplexity.ai/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "A Twitter search interface that is powered by Perplexity’s structured search engine",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkiw6nybh8wx0b733uhyn23i",
+                        "name": "Search Engines",
+                        "slug": "search-engine",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "ckups2fe5jy6y0a45ej8ezeam",
+                "logo": {
+                    "id": "ckups2flnjy730a455kz9tr99",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1634108796/icons/stenography-dev.jpg",
+                    "__typename": "File"
+                },
+                "name": "Stenography",
+                "slug": "stenography-dev",
+                "links": [
+                    {
+                        "id": "ckups2g44jy7m0a45hmg68hay",
+                        "url": "https://stenography.dev/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Using AI to make code accessible to everyone",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckups2fibjy700a450kn05949",
+                        "name": "Code Explanation",
+                        "slug": "code-explanation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#090909",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "cku8xkveajeh90b99sabj4hso",
+                "logo": {
+                    "id": "cku8xkvlsjehd0b99q61nl1e4",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1633125882/icons/typist-codes.jpg",
+                    "__typename": "File"
+                },
+                "name": "Code translator",
+                "slug": "typist-codes",
+                "links": [
+                    {
+                        "id": "cku8xkw05jehr0b99mof6lx4h",
+                        "url": "https://typist.codes/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Migrate code across languages and platforms using OpenAI's Codex",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "cku8xkvifjeha0b99muj0zwou",
+                        "name": "Code Refactoring",
+                        "slug": "code-refactoring",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "data": {
+        "listingsPreview": [
+            {
+                "id": "clcidfkdw1059228913yu1fhhwwb",
+                "logo": {
+                    "id": "clcidfkdw1059233913yk4gkd84z",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672879312/icons/perplexity-ai.jpg",
+                    "__typename": "File"
+                },
+                "name": "Perplexity AI",
+                "slug": "perplexity-ai",
+                "links": [
+                    {
+                        "id": "clcidfkdw1059229913ykvjh9xpf",
+                        "url": "https://www.perplexity.ai/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "A new search interface that uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkiw6nybh8wx0b733uhyn23i",
+                        "name": "Search Engines",
+                        "slug": "search-engine",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            }
+        ]
+    }
+}

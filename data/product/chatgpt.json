@@ -1,0 +1,2358 @@
+{
+    "data": {
+        "listingsPreview": [
+            {
+                "id": "clbxzyg4t8898205g1nuskn2gyq",
+                "logo": {
+                    "id": "clbxzyg4t8898285g1naxa04mx2",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1572354166/catalog/ada-support/icon128x128.jpg",
+                    "__typename": "File"
+                },
+                "name": "Ada",
+                "slug": "ada-support",
+                "links": [
+                    {
+                        "id": "clbxzyg4t8898215g1nnjayqr2r",
+                        "url": "https://www.ada.support/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbxzyg4t8898225g1nfg77gec2",
+                        "url": "https://www.ada.support/terms",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbxzyg4t8898235g1nk00ljd7n",
+                        "url": "https://www.ada.support/privacy",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "sequence": 2,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Using GPT-3 to automate the training of customer intents",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbxzyg6m8898575g1ncz1obg2e",
+                        "name": "Customer Support",
+                        "slug": "customer-support",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#04042b",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbtecj9v624606ev5bd64v2ktd",
+                "logo": {
+                    "id": "clbtecj9v624608ev5b7vz666zx",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1671369669/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/63b6cca1-7028-48aa-a125-2791ae171772_jeqrhk.png",
+                    "__typename": "File"
+                },
+                "name": "askai",
+                "slug": "askai",
+                "links": [
+                    {
+                        "id": "clbtel6ot632918f58t70cm3xg4",
+                        "url": "https://github.com/yudax42/askai",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbtecj9v624607ev5baw15wpra",
+                        "url": "https://youtu.be/LJIaaiIJVSo",
+                        "name": "Demo",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Command Line Interface for OpenAI ChatGPT",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                        "name": "Developer Tools",
+                        "slug": "developer-tools",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbl3zzzt445804560vtyjbwnaa",
+                "logo": {
+                    "id": "clbl3zzzu445808560v30piz3t2",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1531055773/catalog/android/icon128x128.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT Android ",
+                "slug": "chatgpt-android",
+                "links": [
+                    {
+                        "id": "clbl46yru42506154ak4gfjvhfy",
+                        "url": "https://github.com/skydoves/chatgpt-android",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "android",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                        "name": "Developer Tools",
+                        "slug": "developer-tools",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "android",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbcw3yt41381304536n2x1xlnoo",
+                "logo": {
+                    "id": "clbdz7j9m252374536n9gxzkei0",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670437248/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Group_nwcfd4.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT API (unofficial)",
+                "slug": "chatgpt-api-unofficial",
+                "links": [
+                    {
+                        "id": "clbcw3yt51381305536nkwf6zjsu",
+                        "url": "https://github.com/transitive-bullshit/chatgpt-api",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Node.js client for the unofficial ChatGPT API",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                        "name": "Developer Tools",
+                        "slug": "developer-tools",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "cld3tp0ow1090789703asdfztsxt",
+                "logo": {
+                    "id": "cld3tqahi11071026y8idqd156wn",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1674176949/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2023-01-20_at_02.06.29_o2gkjw.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT Batman",
+                "slug": "chatgpt-batman",
+                "links": [
+                    {
+                        "id": "cld3tp0ow1090790703ay58os1wd",
+                        "url": "https://youtu.be/edOkGamkOVI",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "A fan-made Batman animated movie made with ChatGPT and MidJourney",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckv1l1dn361gg0a45k492tc14",
+                        "name": "Generative Art",
+                        "slug": "generative-art",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbctm4rh1262886536nbnhw0mz1",
+                "logo": {
+                    "id": "clbctm4rh1262888536nyzcggbh9",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670367386/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/unnamed_zdnsab.jpg",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT Chrome Extension",
+                "slug": "chatgpt-chrome-extension",
+                "links": [
+                    {
+                        "id": "clbctmw6w1263976536ngbisfseq",
+                        "url": "https://github.com/kazuki-sf/ChatGPT_Extension",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbctm4rh1262887536nkebo4yyn",
+                        "url": "https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb?ref=gpt3demo.com",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Access OpenAI's ChatGPT anywhere on the web",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbctpn4a126451154akyc0fwppa",
+                        "name": "Browser Extensions",
+                        "slug": "browser-extensions",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbmymxkf29573538tqdizy4zk",
+                "logo": {
+                    "id": "clbmymxkf29575538tv8b72qi3",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670980483/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/p9991186_v_h10_ar_v5efsl.jpg",
+                    "__typename": "File"
+                },
+                "name": "chatgpt-conversation",
+                "slug": "chatgpt-conversation",
+                "links": [
+                    {
+                        "id": "clbmymxkf29574538tafbo1cv8",
+                        "url": "https://github.com/platelminto/chatgpt-conversation",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Talk to ChatGPT",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbmys3gn69365535bb2ooh3qj",
+                        "name": "Voice Assistants",
+                        "slug": "voice-assistants",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clddn878j567902jx8i740pch99",
+                "logo": {
+                    "id": "clddn878j567904jx8itwyyx08b",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1674770688/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/68747470733a2f2f707974686f6e70726f6772616d6d696e672e6e65742f7374617469632f696d616765732f636861746770746174686f6d65736f6369616c2e706e67_vixfos.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT creates a new ChatGPT",
+                "slug": "chatgpt-creates-a-new-chatgpt",
+                "links": [
+                    {
+                        "id": "clddn878j567903jx8i1ndtb0du",
+                        "url": "https://www.youtube.com/watch?v=QumfkMQr47M",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clddn99cd569200jx8iap7ewxbz",
+                        "url": "https://github.com/Sentdex/ChatGPT-at-Home",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Creating a large language model (LLM)-backed chat bot application entirely with ChatGPT",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckp8z8u1092bx0b341jufyjvt",
+                        "name": "Tutorials",
+                        "slug": "tutorials",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbx0thkx9438555g1nxt8gm09w",
+                "logo": {
+                    "id": "clbx0thkx9438575g1nvw1qgsr9",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1671588810/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/logo_1_sfgufx.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT Desktop App",
+                "slug": "chatgpt-desktop-app",
+                "links": [
+                    {
+                        "id": "clbx0thkx9438565g1n26l6oue3",
+                        "url": "https://github.com/lencx/ChatGPT",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "ChatGPT for Mac, Windows and Linux",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckl1x940yi8qg0b736ldbs5qc",
+                        "name": "Resources",
+                        "slug": "resources",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbzwulo512887525g73kq64lvqp",
+                "logo": {
+                    "id": "clbzwulo512887605g73aizrh2w3",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1531304781/catalog/discord/icon128x128.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT Discord Bot",
+                "slug": "chatgpt-discord-bot",
+                "links": [
+                    {
+                        "id": "clbzwulo512887535g73mtov7yv8",
+                        "url": "https://github.com/m1guelpf/chatgpt-discord",
+                        "name": "Source code",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Run your own ChatGPT Discord bot, with a single command",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "discord",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckhgdvj3inb1r0b66uqqf5f3r",
+                        "name": "Chatbots",
+                        "slug": "chatbots",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "discord",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "cldkwb4xs1146743j95dvxgw9ki8",
+                "logo": {
+                    "id": "cldkwb4xs1146745j95dwe7zls21",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1675209206/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/d69a2c7e-4594-4d3e-8919-4c47acf06cac_nlguwo.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT Famous Resumes",
+                "slug": "chatgpt-famous-resumes",
+                "links": [
+                    {
+                        "id": "cldkwb4xs1146744j95dxbu8wce2",
+                        "url": "https://thisresumedoesnotexist.com/?ref=gpt3demo.com",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "1000+ AI generated resumes of famous people",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckqlpgh33beny0a98cioztk3m",
+                        "name": "Resume Writing",
+                        "slug": "resume-writing",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [
+                    {
+                        "id": "cknnlkyb1375m0b343uylwxkv",
+                        "name": "New",
+                        "slug": "new",
+                        "__typename": "Collection",
+                        "translations": []
+                    }
+                ],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbctuppz127254354ak4gnas7ql",
+                "logo": {
+                    "id": "clbctupq0127254554ak5ickmwc4",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670367786/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/unnamed_2_rlainc.jpg",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT for Google",
+                "slug": "chatgpt-for-google",
+                "links": [
+                    {
+                        "id": "clbctupq0127254454ak6s9y7i7z",
+                        "url": "https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbctw2f7127437754akeq7r0404",
+                        "url": "https://github.com/wong2/chat-gpt-google-extension?ref=gpt3demo.com",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Show ChatGPT response alongside Google Search results",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbctpn4a126451154akyc0fwppa",
+                        "name": "Browser Extensions",
+                        "slug": "browser-extensions",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbcvattb133763354akrw77o7ur",
+                "logo": {
+                    "id": "clbcvattb133763554akvq17l04l",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670370218/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Visual_Studio_Code_1.35_icon.svg_e5h4ju.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT for VSCode",
+                "slug": "chatgpt-for-vscode",
+                "links": [
+                    {
+                        "id": "clbcvattb133763454aklup13qvt",
+                        "url": "https://github.com/mpociot/chatgpt-vscode",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "A VSCode extension that allows you to use ChatGPT",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                        "name": "Developer Tools",
+                        "slug": "developer-tools",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbwm03y52892395ebcbf8fa45q",
+                "logo": {
+                    "id": "clbwm03y52892415ebc16zw0hew",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1671563924/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2022-12-20_at_20.10.44_rx0kyl.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT Homework",
+                "slug": "chatgpt-homework",
+                "links": [
+                    {
+                        "id": "clbwm03y52892405ebctyhjwh5d",
+                        "url": "https://chat.openai.com/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Academics worry about students using AI tools to write their homework.",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbwm3t8c2918175g1nnofvqk8e",
+                        "name": "Education",
+                        "slug": "education",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clc8b1s0x1293442713yns5noir9",
+                "logo": {
+                    "id": "clc8b1s0x1293444713yilt4ag8d",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672271121/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2022-12-29_at_00.44.19_hjg5b6.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT HTML website",
+                "slug": "chatgpt-html-website",
+                "links": [
+                    {
+                        "id": "clc8b1s0x1293443713yoo9dkm9k",
+                        "url": "https://youtu.be/vFtoGNiO_2w",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Building a HTML website with ChatGPT prompts and Replit",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckp8z8u1092bx0b341jufyjvt",
+                        "name": "Tutorials",
+                        "slug": "tutorials",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clc74phks114460370yr9p700qgn",
+                "logo": {
+                    "id": "clc74phks114460570yr13dacdsv",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672200004/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/icon128x128_1_rbgher.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT JSON to CSV",
+                "slug": "chatgpt-json-to-csv",
+                "links": [
+                    {
+                        "id": "clc74phks114460470yrst6u2of1",
+                        "url": " https://youtu.be/JdBieE1Lnpc",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Convert JSON to CSV with ChatGPT",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clc74s0gt1159464713y33gwo2p8",
+                        "name": "No-code",
+                        "slug": "no-code",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    },
+                    {
+                        "id": "clc74shyb114841170yrv8pd2ho1",
+                        "name": "Example Prompts",
+                        "slug": "example-prompts",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clc7y79qx760080713yrwmp4xqc",
+                "logo": {
+                    "id": "clc7y79qx760082713ybxchpfc6",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672249542/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2022-12-28_at_18.45.27_ojnhep.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT + Midjourney",
+                "slug": "chatgpt-midjourney",
+                "links": [
+                    {
+                        "id": "clc7y79qx760081713ylh1x6xs4",
+                        "url": "https://www.allabtai.com/how-to-create-a-illustrated-story-with-chatgpt-and-midjourney/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "A Fully Illustrated Narrated Adventure Story",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckp8z8u1092bx0b341jufyjvt",
+                        "name": "Tutorials",
+                        "slug": "tutorials",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbmz13kk47412538tjp4szezj",
+                "logo": {
+                    "id": "clbmz13kl47414538t1wtpaotv",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670981143/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Octicons-git-pull-request.svg_pdjpnd.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT PR code review",
+                "slug": "chatgpt-pr-code-review",
+                "links": [
+                    {
+                        "id": "clbmz13kl47413538tkqfcuzb9",
+                        "url": "https://github.com/kxxt/chatgpt-action",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Let ChatGPT review pull requests for you in GitHub",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                        "name": "Developer Tools",
+                        "slug": "developer-tools",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clcf591mj44632770yrtlg5xsoj",
+                "logo": {
+                    "id": "clcf5brpi44895770yrj6byy93a",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672684773/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/ios14-siri-icon_dlwzsw.png",
+                    "__typename": "File"
+                },
+                "name": "Siri ChatGPT",
+                "slug": "chatgpt-sirigpt-apple-ios",
+                "links": [
+                    {
+                        "id": "clcfnd7y5111846870yrlqadbge6",
+                        "url": "https://www.icloud.com/shortcuts/f5f43bc3340f482eb236c18ade553fdc",
+                        "name": "Download the shortcut",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Use ChatGPT on Your iPhone With One iOS Shortcut",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbmys3gn69365535bb2ooh3qj",
+                        "name": "Voice Assistants",
+                        "slug": "voice-assistants",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0d0d0d",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clc83o26o989987713ys6z1sjj0",
+                "logo": {
+                    "id": "clc83o26o989995713y6vv9jg2q",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1557455842/catalog/figma/icon128x128.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT SVG icon to Figma",
+                "slug": "chatgpt-svg-icon-to-figma",
+                "links": [
+                    {
+                        "id": "clc83o26o989988713ylda0wb5e",
+                        "url": "https://figma.com",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clc83o26o989990713y4vhpc6j8",
+                        "url": "https://www.figma.com/privacy",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "sequence": 2,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clc83o26o989989713yln5msa70",
+                        "url": "https://www.figma.com/tos",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Ask ChatGPT to generate an SVG icon and copy and paste it to Figma  ",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "cklhp4et2lim50b86krzlwt7z",
+                        "name": "Design",
+                        "slug": "design",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "figma",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbealutl103528154akmhxuqbs3",
+                "logo": {
+                    "id": "clbealutl103528854ak822f26sp",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1561048362/catalog/telegram/icon128x128.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT Telegram bot",
+                "slug": "chatgpt-telegram-bot",
+                "links": [
+                    {
+                        "id": "clbealutl103528254ako6b3msab",
+                        "url": "https://github.com/m1guelpf/chatgpt-telegram",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Interact with ChatGPT via Telegram",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckhgdvj3inb1r0b66uqqf5f3r",
+                        "name": "Chatbots",
+                        "slug": "chatbots",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "telegram",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbpngnfh30129ev5bkp6lmfn3",
+                "logo": {
+                    "id": "clbpngnfi30134ev5bdn94kkih",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1529456054/catalog/wordpress/icon128x128.png",
+                    "__typename": "File"
+                },
+                "name": "ChatGPT WordPress plugin",
+                "slug": "chatgpt-wordpress-plugin",
+                "links": [
+                    {
+                        "id": "clbpngnfh30130ev5btl5z2wm6",
+                        "url": "https://youtu.be/nt3-AZ7gp9U",
+                        "name": "Demo",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Let ChatGPT generate a Wordpress Plugin",
+                "blendrId": "",
+                "trayIoId": "wordpress",
+                "upcoming": false,
+                "zapierId": "wordpress",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "wordpress",
+                "categories": [
+                    {
+                        "id": "cklbiynp5tgck0b86bmlea559",
+                        "name": "Code Generation",
+                        "slug": "code-generation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "wordpress",
+                "integromatId": "wordpress",
+                "translations": [],
+                "microsoftFlowId": "wordpress",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbtjm5c8833843f58tzj58wc59",
+                "logo": {
+                    "id": "clbtjm5c8833845f58t0wo1apsx",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1671378515/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/0d0e413c-79fe-4ab2-b561-7fcc23524731_npyard.png",
+                    "__typename": "File"
+                },
+                "name": "Chatsonic",
+                "slug": "chatsonic",
+                "links": [
+                    {
+                        "id": "clbtjm5c8833844f58tm0p87vhl",
+                        "url": "https://writesonic.com/chat",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Like ChatGPT but with superpowers",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkokiddg1qa70b73v4toexun",
+                        "name": "AI Copywriting",
+                        "slug": "copywriting",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckkq73vtj9j4o0b733ocvvkdz",
+                        "name": "Image Generation",
+                        "slug": "image-generation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    },
+                    {
+                        "id": "cld00ec2k167591772675ka53xcj",
+                        "name": "ChatGPT Alternatives",
+                        "slug": "chatgpt-alternatives",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbeb3x0h1098385536nkr5yi6nl",
+                "logo": {
+                    "id": "clbeb3x0h1098387536ny0w3i33a",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670457235/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2022-12-08_at_00.53.19_e1mlam.png",
+                    "__typename": "File"
+                },
+                "name": "commitgpt",
+                "slug": "commitgpt",
+                "links": [
+                    {
+                        "id": "clbeb3x0h1098386536nn1m132gf",
+                        "url": "https://github.com/RomanHotsiy/commitgpt",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Automatically generate commit messages using ChatGPT.",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                        "name": "Developer Tools",
+                        "slug": "developer-tools",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clduvkvmu40252472278cdve1ko",
+                "logo": {
+                    "id": "clduvp7964183916z4icwvyspoh",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1675812845/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/a113f73f-179c-425c-ad3e-73c73d5ca1ea_iq8l1u.png",
+                    "__typename": "File"
+                },
+                "name": "flowGPT",
+                "slug": "flowgpt",
+                "links": [
+                    {
+                        "id": "clduvkvmu4025257227ubhn46po",
+                        "url": "https://flowgpt.com/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Share and discover ChatGPT Prompts to amplify your workflow",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbjxz2iv8973654ak2oj8jc87",
+                        "name": "Prompt Marketplaces",
+                        "slug": "prompt-marketplaces",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbmy5afu5746538trmtylypa",
+                "logo": {
+                    "id": "clbmy5afv5752538tkkwu0n58",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1529456638/catalog/google-docs/icon128x128.png",
+                    "__typename": "File"
+                },
+                "name": "docGPT",
+                "slug": "google-docs",
+                "links": [
+                    {
+                        "id": "clbmy5afu5747538tzlp93e8e",
+                        "url": "https://github.com/cesarhuret/docGPT/",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "ChatGPT directly within Google Docs as an Editor Add-on ",
+                "blendrId": "",
+                "trayIoId": "google-docs",
+                "upcoming": false,
+                "zapierId": "google-docs",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "google-docs",
+                "categories": [
+                    {
+                        "id": "cklu6mw90v49m0b595toy0n9f",
+                        "name": "Documents",
+                        "slug": "documents",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "cldayc4cl717529jx8i7cbscpsv",
+                "logo": {
+                    "id": "cldayc4cl717531jx8ihd8mblxc",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1674607949/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/image04_d74sut.png",
+                    "__typename": "File"
+                },
+                "name": "GPTChat",
+                "slug": "gptchat",
+                "links": [
+                    {
+                        "id": "cldayc4cl717530jx8inr1ogb89",
+                        "url": "https://gptchat.carrd.co/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Open AI ChatGPT app for Slack",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbcu584g128793154aklyu8ts86",
+                        "name": "Productivity",
+                        "slug": "productivity",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clcqubspt6310647140nmugbtit",
+                "logo": {
+                    "id": "clcqubspt6310667140swpszcgy",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1673391892/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2023-01-11_at_00.03.23_px2wtq.png",
+                    "__typename": "File"
+                },
+                "name": "GPTZero",
+                "slug": "gptzero",
+                "links": [
+                    {
+                        "id": "clcqubspt6310657140z8257ln5",
+                        "url": "https://gptzero.me/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Quickly and efficiently detect whether an essay is ChatGPT or human written",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "cklvn0qi210lu0b59rv7owqtj",
+                        "name": "Essay Writing",
+                        "slug": "essay-writing",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbdzn86w25819254akj7sjv7h2",
+                        "name": "Plagiarism Checker",
+                        "slug": "plagiarism-checker",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [
+                    {
+                        "id": "cknnlkyb1375m0b343uylwxkv",
+                        "name": "New",
+                        "slug": "new",
+                        "__typename": "Collection",
+                        "translations": []
+                    }
+                ],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbld71yl92603954ak3qr8tpni",
+                "logo": {
+                    "id": "clbld71ym92604754akldie81su",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1596813376/icons/jetbrains-intellij-idea.jpg",
+                    "__typename": "File"
+                },
+                "name": "IntelliJ IDEA ChatGPT",
+                "slug": "jetbrains-intellij-idea",
+                "links": [
+                    {
+                        "id": "clbld71yl92604154ak155e8b6a",
+                        "url": "https://www.jetbrains.com/company/useterms.html",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbld71yl92604254akbrzk4g6f",
+                        "url": "https://www.jetbrains.com/company/privacy.html",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "sequence": 2,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbld71yl92604054akwz7ib8rs",
+                        "url": "https://plugins.jetbrains.com/plugin/20603-chatgpt",
+                        "name": "View the plugin",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "A ChatGPT plugin for IntelliJ IDEA",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                        "name": "Developer Tools",
+                        "slug": "developer-tools",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#050505",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbcu26tv1284867536n28mg5xyl",
+                "logo": {
+                    "id": "clbcu26tw1284869536nmit1ekv9",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670368135/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/images_yxdktk.jpg",
+                    "__typename": "File"
+                },
+                "name": "MenuGPT",
+                "slug": "menugpt",
+                "links": [
+                    {
+                        "id": "clbcu26tw1284868536n7w8hfndi",
+                        "url": "https://goodsnooze.gumroad.com/l/menugpt?ref=gpt3demo.com",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Talk to ChatGPT in your menubar ",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbcu584g128793154aklyu8ts86",
+                        "name": "Productivity",
+                        "slug": "productivity",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clcb4qw6a40901170yr2yp00hg7",
+                "logo": {
+                    "id": "clcb52v0c42159670yre3hxmj1f",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1672442492/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/-4-ans_frontend_assets.images.poe.app_icon.png-26-8aa0a2e5f237894d_tbragv.png",
+                    "__typename": "File"
+                },
+                "name": "Poe by Quora",
+                "slug": "poe-by-quora",
+                "links": [
+                    {
+                        "id": "clcb4zvpp41820870yrebj4i2yu",
+                        "url": "https://apps.apple.com/app/id1640745955",
+                        "name": "Download on the app store",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clcb4qw6a40901270yrj750hvr1",
+                        "url": "https://poe.quora.com/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Poe lets you ask questions, get instant answers, and have back-and-forth dialogue with AI.",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckhgdvj3inb1r0b66uqqf5f3r",
+                        "name": "Chatbots",
+                        "slug": "chatbots",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbhzlei314247254akvj5bl9oe",
+                "logo": {
+                    "id": "clbhzlei414247454akf4o9gwpl",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670679760/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2022-12-10_at_14.42.03_grg9s1.png",
+                    "__typename": "File"
+                },
+                "name": "Promptheus",
+                "slug": "promptheus",
+                "links": [
+                    {
+                        "id": "clbhzlei314247354akq6ew1u5a",
+                        "url": "https://chrome.google.com/webstore/detail/promptheus-converse-with/eipjdkbchadnamipponehljdnflolfki?ref=gpt3demo.com",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Talk to ChatGPT",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbhzq9bo14909654akoahes8y8",
+                        "name": "Voice-to-Text",
+                        "slug": "voice-to-text",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbm5e0wt52063538tyl35t76h",
+                "logo": {
+                    "id": "clbm5e0wu52070538tqkik76da",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1604015077/icons/raycast.jpg",
+                    "__typename": "File"
+                },
+                "name": "Raycast ChatGPT",
+                "slug": "raycast-chatgpt",
+                "links": [
+                    {
+                        "id": "clbm5hg7a57227538teztc8g4v",
+                        "url": "https://github.com/abielzulio/chatgpt-raycast",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbm5e0wt52065538t8ata0h7q",
+                        "url": "https://raycast.com/terms-of-service",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "sequence": 2,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbm5e0wt52064538tcxewrkfz",
+                        "url": "https://raycast.com/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbm5e0wt52066538tzskyndre",
+                        "url": "https://raycast.com/privacy",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "sequence": 3,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Interact with OpenAI's ChatGPT right from your command bar",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbcu584g128793154aklyu8ts86",
+                        "name": "Productivity",
+                        "slug": "productivity",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbm5pd1m68886535bqz132pun",
+                        "name": "Project Management",
+                        "slug": "project-management",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#e66b69",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clb6ylzt31590779550pge5rk54r",
+                "logo": {
+                    "id": "clb6ylzt41590781550pmch76vv5",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670012980/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/rupert_atpoym.webp",
+                    "__typename": "File"
+                },
+                "name": "Rupert.finance",
+                "slug": "rupertfinance",
+                "links": [
+                    {
+                        "id": "clb6ylzt31590780550py1dj0m7r",
+                        "url": "https://rupert.finance/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "A sarcastic robo-advisor with a chip on his shoulder",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckhgdvj3inb1r0b66uqqf5f3r",
+                        "name": "Chatbots",
+                        "slug": "chatbots",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbgwn6lj9369254akj90mpdef",
+                "logo": {
+                    "id": "clbgwn6lj9369454akcnmgoodj",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670614338/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/logo_mhfb3d.webp",
+                    "__typename": "File"
+                },
+                "name": "ShareGPT",
+                "slug": "sharegpt",
+                "links": [
+                    {
+                        "id": "clbgwn6lj9369354ak7x1i3lip",
+                        "url": "https://sharegpt.com/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Share your wildest ChatGPT conversations with one click.",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkhjeo2wcpcw0b733fdfvz9r",
+                        "name": "Developer Tools",
+                        "slug": "developer-tools",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbdzw2wr300998536nkfxz025g",
+                "logo": {
+                    "id": "clbdzw2wr301000536nxetew6h2",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1670438394/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2022-12-07_at_19.39.03_kuiezo.png",
+                    "__typename": "File"
+                },
+                "name": "showGPT",
+                "slug": "showgpt",
+                "links": [
+                    {
+                        "id": "clbdzw2wr300999536nydhft1kz",
+                        "url": "https://showgpt.co/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "The ultimate guide to unlocking the power of AI and chatGPT",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckl1x940yi8qg0b736ldbs5qc",
+                        "name": "Resources",
+                        "slug": "resources",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clboen78h1005102538tgkzwd486",
+                "logo": {
+                    "id": "clboen78i1005104538tcpqixmgf",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1671067834/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2022-12-15_at_02.28.48_gp1uc5.png",
+                    "__typename": "File"
+                },
+                "name": "Summarize with ChatGPT",
+                "slug": "summarize-with-chatgpt",
+                "links": [
+                    {
+                        "id": "clboen78h1005103538tpi8lnsye",
+                        "url": "https://chrome.google.com/webstore/detail/summarize/lmhkmibdclhibdooglianggbnhcbcjeh",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clboeom5l1035963535b5sxwtra1",
+                        "url": "https://github.com/clmnin/summarize.site",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Summarize web pages using OpenAI ChatGPT",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "cku02jaymaqxc0a45onod7mjh",
+                        "name": "Summarization",
+                        "slug": "summarization",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbmmcbyh1085827538tzdqje5j4",
+                "logo": {
+                    "id": "clbmmcbyh1085834538tbgblym56",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1529455932/catalog/twitter/icon128x128.png",
+                    "__typename": "File"
+                },
+                "name": "Twitter ChatGPT bot",
+                "slug": "twitter-chatgpt-bot",
+                "links": [
+                    {
+                        "id": "clbmmcbyh1085830538too1ocgvo",
+                        "url": "https://twitter.com/privacy",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "sequence": 3,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbmmcbyh1085828538trej94z33",
+                        "url": "https://twitter.com/ChatGPTBot",
+                        "name": "Demo",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbmmixo61097332538tqft6yvsh",
+                        "url": "https://github.com/transitive-bullshit/chatgpt-twitter-bot",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbmmcbyh1085829538tair2uhjb",
+                        "url": "https://developer.twitter.com/en/developer-terms",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "sequence": 2,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Twitter bot powered by OpenAI's ChatGPT",
+                "blendrId": "twitter",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "twitter",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "twitter",
+                "categories": [
+                    {
+                        "id": "ckhgdvj3inb1r0b66uqqf5f3r",
+                        "name": "Chatbots",
+                        "slug": "chatbots",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    },
+                    {
+                        "id": "clbmmcbzv1085864538tb1wwzy48",
+                        "name": "Social Media",
+                        "slug": "social-media",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "twitter",
+                "translations": [],
+                "microsoftFlowId": "twitter",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#1ca3f3",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbfig1d173205854aknndwiapj",
+                "logo": {
+                    "id": "clbfig1d273206454aksvlvb454",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1559218753/catalog/wechat/icon128x128.jpg",
+                    "__typename": "File"
+                },
+                "name": "WeChat ChatGPT",
+                "slug": "wechat-chatgpt-bot",
+                "links": [
+                    {
+                        "id": "clbfig1d173205954akkhp6vpv9",
+                        "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "ChatGPT for wechat",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckhgdvj3inb1r0b66uqqf5f3r",
+                        "name": "Chatbots",
+                        "slug": "chatbots",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbebaexn1108466536n7hehbfax",
+                "logo": {
+                    "id": "clbebaexo1108474536nvmmq75j4",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1557247700/catalog/whatsapp/icon128x128.png",
+                    "__typename": "File"
+                },
+                "name": "WhatsApp ChatGPT Bot",
+                "slug": "whatsapp-chatgpt",
+                "links": [
+                    {
+                        "id": "clbebaexn1108467536npr16r2tp",
+                        "url": "https://github.com/danielgross/whatsapp-gpt",
+                        "name": "GitHub repo",
+                        "type": "OTHER",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "A bot to access OpenAI's ChatGPT through WhatsApp",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckhgdvj3inb1r0b66uqqf5f3r",
+                        "name": "Chatbots",
+                        "slug": "chatbots",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#1ce55b",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clbs10qar383478f58trqcd87go",
+                "logo": {
+                    "id": "clbs10qar383483f58tvi50f8dj",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1531306617/catalog/zoho-notebook/icon128x128.png",
+                    "__typename": "File"
+                },
+                "name": "Notes for ChatGPT",
+                "slug": "zoho-notebook-chatgpt",
+                "links": [
+                    {
+                        "id": "clbs16odm386170ev5brg8hhdrq",
+                        "url": "https://www.zoho.com/notebook/web-clipper.html",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Save your conversations in ChatGPT as notes in Zoho Notebook",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "zoho-notebook",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clay9e2n56107575576abj4mf09",
+                        "name": "Notes",
+                        "slug": "notes",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            }
+        ]
+    }
+}

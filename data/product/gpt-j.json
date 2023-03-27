@@ -1,0 +1,224 @@
+{
+    "data": {
+        "listingsPreview": [
+            {
+                "id": "ckwlq9r6g3jp90d62rvrcsvkg",
+                "logo": {
+                    "id": "ckwlq9rah3jpa0d62c3bs4ss3",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1638253371/icons/cedille-ai.jpg",
+                    "__typename": "File"
+                },
+                "name": "Cedille",
+                "slug": "cedille-ai",
+                "links": [
+                    {
+                        "id": "ckwlq9rkk3jpl0d62ojkrwlbu",
+                        "url": "https://en.cedille.ai/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckwlqkyyh3kaf0d62i0jwybtg",
+                        "url": "https://app.cedille.ai/welcome",
+                        "name": "Test the model",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckwlqlrudkrh90b62a1rjdvko",
+                        "url": "https://github.com/coteries/cedille-ai",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "An open-source French language model",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckl07vsnkbej00b73nx6hq1ye",
+                        "name": "GPT-3 Alternative Large Language Models (LLMs)",
+                        "slug": "alternative-language-models",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [
+                    {
+                        "id": "clbjfycay893960560v2xoouujk",
+                        "name": "Open-source",
+                        "slug": "open-source",
+                        "__typename": "Collection",
+                        "translations": []
+                    }
+                ],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#994973",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "ckwq6tuzywzlo0b620xfvzghg",
+                "logo": {
+                    "id": "ckwq6tv3zwzlp0b62h5yp6n6y",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1638522690/icons/deepgenx.png",
+                    "__typename": "File"
+                },
+                "name": "DeepGenX",
+                "slug": "deepgenx",
+                "links": [
+                    {
+                        "id": "ckwq6tviawzm30b62bhab50vr",
+                        "url": "https://deepgenx.com/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckwq74yftby0t0d62vc09g955",
+                        "url": "https://github.com/DeepGenX/CodeGenX",
+                        "name": "Source code",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckwr29uggzbwj0b62vo8q205x",
+                        "url": "https://docs.deepgenx.com",
+                        "name": "Docs",
+                        "type": "OTHER",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Code Generation using GPT-J",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "cklbiynp5tgck0b86bmlea559",
+                        "name": "Code Generation",
+                        "slug": "code-generation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "ckx9mzmieaz7j0d62f3zo074o",
+                "logo": {
+                    "id": "ckx9mzmmnaz7k0d62wbprecb4",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1639471956/icons/nlpcloud-io.jpg",
+                    "__typename": "File"
+                },
+                "name": "NLP Cloud",
+                "slug": "nlpcloud-io",
+                "links": [
+                    {
+                        "id": "ckx9mzn5qaz820d62m2fcgll2",
+                        "url": "https://nlpcloud.io/",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckx9mzn7vaz840d62q1480kov",
+                        "url": "https://nlpcloud.io/contextual-targeting-for-privacy-friendly-advertizing-thanks-to-text-classification-nlp-api-nlpcloud.html",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "ckx9mzn9yaz860d6263p72a5w",
+                        "url": "https://nlpcloud.io/tos.html",
+                        "name": "Terms",
+                        "type": "TERMS",
+                        "sequence": null,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "High performance AI models, ready for production, served through a REST API.",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckoekutgi8hnr0b34mw59ljca",
+                        "name": "GPT-3 Alternatives",
+                        "slug": "gpt-3-alternatives",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            }
+        ]
+    }
+}

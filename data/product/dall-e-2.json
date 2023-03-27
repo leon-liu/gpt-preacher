@@ -1,0 +1,128 @@
+{
+    "data": {
+        "listingsPreview": [
+            {
+                "id": "clcqqojel41343770bmj342g5el",
+                "logo": {
+                    "id": "clcqqsyat4036947140m7d4ejfe",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1673385974/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2023-01-10_at_22.25.56_m0blao.png",
+                    "__typename": "File"
+                },
+                "name": "Image Creator from Microsoft Bing",
+                "slug": "image-creator-microsoft-bing",
+                "links": [
+                    {
+                        "id": "clcqqvil342566370bmxqyoy8jp",
+                        "url": "https://blogs.microsoft.com/blog/2022/10/20/our-commitment-to-making-the-new-image-creator-from-microsoft-bing-fun-and-inclusive-for-everyone/",
+                        "name": "Read the blog post",
+                        "type": "OTHER",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clcqqojem41343870bmi44j0o8b",
+                        "url": "https://www.bing.com/create",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "Create images from words with AI",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "clbfm9r0w962181560vetgupeug",
+                        "name": "Text-to-Image ",
+                        "slug": "text-to-image",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            },
+            {
+                "id": "clcued3c01654550z40uwyqt7j9",
+                "logo": {
+                    "id": "clcued3c01654620z40hen1wu9v",
+                    "url": "https://res.cloudinary.com/apideck/image/upload/v1673605910/icons/shutterstock.jpg",
+                    "__typename": "File"
+                },
+                "name": "Shutterstock.AI (Upcoming)",
+                "slug": "shutterstock",
+                "links": [
+                    {
+                        "id": "clcued3c01654570z40clqbz5re",
+                        "url": "https://www.shutterstock.com/privacy",
+                        "name": "Privacy Policy",
+                        "type": "PRIVACY",
+                        "sequence": 1,
+                        "__typename": "Link",
+                        "translations": []
+                    },
+                    {
+                        "id": "clcued3c01654560z40ca06bx4w",
+                        "url": "https://www.shutterstock.com/generate",
+                        "name": "Website",
+                        "type": "WEBSITE",
+                        "sequence": 0,
+                        "__typename": "Link",
+                        "translations": []
+                    }
+                ],
+                "sticky": false,
+                "tagLine": "AI-generated stock images",
+                "blendrId": "",
+                "trayIoId": "",
+                "upcoming": false,
+                "zapierId": "",
+                "piesyncId": "",
+                "segmentId": null,
+                "__typename": "Listing",
+                "automateId": "",
+                "categories": [
+                    {
+                        "id": "ckkq73vtj9j4o0b733ocvvkdz",
+                        "name": "Image Generation",
+                        "slug": "image-generation",
+                        "__typename": "MultiCategory",
+                        "translations": []
+                    }
+                ],
+                "collections": [],
+                "combideskId": "",
+                "integromatId": "",
+                "translations": [],
+                "microsoftFlowId": "",
+                "nativeIntegration": false,
+                "detailPageDisabled": false,
+                "cardBackgroundColor": "#0b226a",
+                "cardBackgroundImage": null,
+                "nativeIntegrationLink": "",
+                "thirdPartyIntegration": false,
+                "thirdPartyIntegrationLink": ""
+            }
+        ]
+    }
+}
