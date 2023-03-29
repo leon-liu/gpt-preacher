@@ -24,12 +24,13 @@ export default function RootLayout({
   
   return (
     <html lang="en">
+      <head>
       <Script
         async
         src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_AD_CLIENT}`}
         crossOrigin="anonymous"
       />
-      
+      </head>
         {/* <script
           dangerouslySetInnerHTML={{
             __html: `
