@@ -25,11 +25,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-      <Script
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3004874618591408"
+     crossOrigin="anonymous"></script>
+      {/* <Script
         async
         src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_AD_CLIENT}`}
         crossOrigin="anonymous"
-      />
+      /> */}
       </head>
         {/* <script
           dangerouslySetInnerHTML={{
